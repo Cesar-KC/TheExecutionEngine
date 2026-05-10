@@ -452,12 +452,7 @@
   (exec-stmts (cdr (parse-program (scan source))) '()))
 
 
-
-
-
-
-
-;--TESTS--------------------------------------------------------------------
+;------------TESTS BELOW:----------------
 
 ; basic assignment and print — expect: 5
 (run "x := 5; PRINT x;")

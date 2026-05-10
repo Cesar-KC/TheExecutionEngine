@@ -1,4 +1,5 @@
-#NAME: CESAR Giner
+#NAME: CESAR GINER
+
 #CLASS: CS441 - Program Design
 
 #Description:

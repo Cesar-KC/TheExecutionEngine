@@ -2,6 +2,8 @@
 
 #CLASS: CS441 - Program Design
 
+#VIDEO DEMO: https://youtu.be/pQ4W45agK-4
+
 #Description:
 - Program 3 - The Execution Engine (Interpreter) is a complete interpreter for a simple imperative language, it implements a full pipeline: 
 source string → scanner → parser (AST) → evaluator → output.The evaluator walks the AST recursively, threading an immutable environment through every statement to track variable state.                                                                 
@@ -14,7 +16,6 @@ passing the updated environment as well. Initial environment is empty '()' and s
 
 
 #Notes:
-- Link to Video: https://youtu.be/pQ4W45agK-4
 - Program 3 code implementation starts at line 345; all previous code is from Program 2 - Recursive Descent Parser, as we need a valid AST output for our Evaluator!
 - Tests are below as well to validate the program
 - Thanks for a great semester!
